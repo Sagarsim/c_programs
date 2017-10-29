@@ -1,7 +1,7 @@
 
 /*Sagar Gujarati*/
 #include<stdio.h>
-#include<conio.h>
+
 #define max 25
 int stc[max];
 int top=-1;
@@ -95,6 +95,6 @@ while(stc[top]!='(')
 }
 postfix[j]='\0';
 printf("\nPostfix is: %s\n",postfix);
-getch();
+
 return 0;
 }
