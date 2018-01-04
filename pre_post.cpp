@@ -1,4 +1,3 @@
-
 /*Sagar Gujarati*/
 #include<stdio.h>
 

@@ -1,6 +1,6 @@
 #include<stdlib.h>
 #include<stdio.h>
-#include<conio.h> 
+
 struct node
 {
     int data;
@@ -118,7 +118,7 @@ void main()
 				goto y;
 			}
 	}
-    getch();
+   
     }
 
 void insert_beg()

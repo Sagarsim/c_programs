@@ -1,6 +1,6 @@
 #include<stdlib.h>
 #include<stdio.h>
-#include<conio.h>
+
 struct node
 {
     int data;
@@ -13,6 +13,7 @@ void middle();
 void remove_first();
 void remove_middle();
 void printlist();
+void findmid();
 void main()
 {
     int n,i,ch,ch2;
@@ -33,6 +34,7 @@ void main()
         insert_at_end();
         printlist();
     }
+	
     break;
     }
 
@@ -58,7 +60,8 @@ void main()
     printf("\n\t3-Add an element at the end....");
     printf("\n\t4-Delete an element anywhere in the middle of the list....");
     printf("\n\t5-Delete first element....");
-    printf("\n\t6-End program....");
+	printf("\n\t6-Find middle element of linked list...");
+    printf("\n\t7-End program....");
     
     scanf("%d",&ch2);
     switch(ch2)
@@ -97,6 +100,11 @@ void main()
 			}
 		case 6:
 			{
+				findmid();
+				goto y;
+			} 
+		case 7:
+			{
 				break;
 			}
 		default:
@@ -106,8 +114,6 @@ void main()
 			}
 	}
     
-    
-    getch();
 }
 void insert_at_beginning()
 {
@@ -177,6 +183,20 @@ void middle()
 		}
 		
 	}
+}
+
+void findmid(){
+	struct node *temp, *tempprev;
+	tempprev = head;
+	temp = head;
+	while(temp!=NULL){
+			temp=temp->link;
+		if(temp!=NULL){
+			temp=temp->link;
+			tempprev = tempprev->link;
+			}
+	}
+		printf("Middle Element:\t%d", tempprev->data);
 }
 void remove_first()
 {
