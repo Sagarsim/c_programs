@@ -43,3 +43,4 @@ int main(){
         printf("%d ", data[i]);
     }
 return 0;
+}
