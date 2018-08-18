@@ -55,7 +55,7 @@ Student :: Student(){
 }
 
 Student :: ~Student(){
-cout << "Child destructor called "<< endl;
+    cout << "Child destructor called "<< endl;
 }
 
 void Student :: getId(int iid){
@@ -77,19 +77,18 @@ void showDetails(Student newStu){
 
 
 int main(){
-  Student *sagar = new Student();
-   sagar->Details:: getName("Sagar Gujarati");
-  sagar->Details:: getAge(21);
-  sagar->getId(21);
-  sagar->getBranch("CSE");
-  showDetails(*sagar);
-  Student *yogesh = new Student();
-  showDetails(*yogesh);
-  Student *mihir = new Student();
- showDetails(*mihir);
-  delete sagar;
-  delete yogesh;
-  delete mihir;
-
+    Student *sagar = new Student();
+    sagar->Details:: getName("Sagar Gujarati");
+    sagar->Details:: getAge(21);
+    sagar->getId(21);
+    sagar->getBranch("CSE");
+    showDetails(*sagar);
+    Student *yogesh = new Student();
+    showDetails(*yogesh);
+    Student *mihir = new Student();
+    showDetails(*mihir);
+    delete sagar;
+    delete yogesh;
+    delete mihir;
     return 0;
 }
