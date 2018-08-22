@@ -1,0 +1,150 @@
+[33mcommit b3a7d08b09d52f89b4cc92f8897a24afef88a380[m
+Author: Sagar9785 <sagar199785@gmail.com>
+Date:   Sat Aug 18 16:27:25 2018 +0000
+
+    cpp basics
+
+[33mcommit b585a0522987b3ffa61687b02bda5ed63f6d0c0e[m
+Author: Sagar9785 <sagar199785@gmail.com>
+Date:   Sat Aug 18 16:20:23 2018 +0000
+
+    cpp basics
+
+[33mcommit 2e4b3e42ef93d9807dc48cf09e692360e75c2e5b[m
+Author: Sagar9785 <sagar199785@gmail.com>
+Date:   Wed Aug 15 10:51:49 2018 +0000
+
+    Quick Sort
+
+[33mcommit 4cb8a9cdde9437563236c950c5736d7f85b7ccb1[m
+Author: Sagar9785 <sagar199785@gmail.com>
+Date:   Wed Aug 15 10:50:53 2018 +0000
+
+    Quick Sort
+
+[33mcommit 1388fb003f4625dca36ff5ac95f421c6b3bcf32b[m
+Author: Sagar9785 <sagar199785@gmail.com>
+Date:   Wed Aug 15 10:48:47 2018 +0000
+
+    Quick Sort
+
+[33mcommit 2a79a4741cafd0cd1ed272d9e81ecc8d433e933e[m
+Author: Sagar9785 <sagar199785@gmail.com>
+Date:   Sat Mar 31 10:56:31 2018 +0530
+
+    New code
+
+[33mcommit 0e10ce9b91dd233c2a9881853b1ac537f84a294f[m
+Author: Sagar9785 <sagar199785@gmail.com>
+Date:   Thu Jan 4 14:43:19 2018 +0530
+
+    Add function for find middle element
+
+[33mcommit 016d82bf6cfa9a0386a75c091dbe12f10c1b890a[m
+Author: Sagar9785 <sagar199785@gmail.com>
+Date:   Sun Oct 29 09:34:39 2017 +0530
+
+    asd
+
+[33mcommit cfcae1a28c6d3ecf2e48bc4b315bd60f76eaa4a7[m
+Author: Sagar9785 <sagar199785@gmail.com>
+Date:   Sun Oct 29 09:30:39 2017 +0530
+
+    asd
+
+[33mcommit adaba396e2d5ec56613aba981aaf535feaf7b594[m
+Merge: 236bbc2 ab3166e
+Author: Sagar9785 <sagar199785@gmail.com>
+Date:   Tue Sep 5 21:50:29 2017 +0530
+
+    changes
+
+[33mcommit 236bbc297c1389247ce4a412e5fa4e74a63100d2[m
+Author: Sagar9785 <sagar199785@gmail.com>
+Date:   Tue Sep 5 21:42:00 2017 +0530
+
+    Binary Search Logic
+
+[33mcommit ab3166e293e03c71a34ce270f02fd415f7fb3e52[m
+Author: Sagar Gujarati <sagar199785@gmail.com>
+Date:   Tue Sep 5 21:40:21 2017 +0530
+
+    Delete sq_root.c
+
+[33mcommit 5d2a17f18bf77ca104a6218a8254d21b5f61657c[m
+Author: Sagar Gujarati <sagar199785@gmail.com>
+Date:   Mon Sep 4 14:00:54 2017 +0530
+
+    Binary Search Logic
+
+[33mcommit d77a9e47e627505d6885fbc1a4317346bca7a553[m
+Author: Sagar Gujarati <sagar199785@gmail.com>
+Date:   Mon Sep 4 13:58:20 2017 +0530
+
+    Create square_root.c
+
+[33mcommit 62dbacf84e315a1a9a6dd915735f3a671a591a90[m
+Author: Sagar9785 <sagar199785@gmail.com>
+Date:   Sun Sep 3 14:46:43 2017 +0530
+
+    sorting
+
+[33mcommit e8e5d305d9464b5f4edf16368e83aa8ee5b4f1bc[m
+Author: Sagar9785 <sagar199785@gmail.com>
+Date:   Sat Sep 2 14:20:22 2017 +0530
+
+    Sorting
+
+[33mcommit 4e89f4fcf6fff408b8246797416ca26fe35a79f6[m
+Author: Sagar9785 <sagar199785@gmail.com>
+Date:   Tue Aug 1 22:00:34 2017 +0530
+
+    codevita
+
+[33mcommit fc8da6e746417da56439699c2c61f13e6da77be0[m
+Author: Sagar9785 <sagar199785@gmail.com>
+Date:   Sun Jun 11 09:53:27 2017 +0530
+
+    Binsearch modifies
+
+[33mcommit 17a3752bb77fb8501e79b31aae2ab92d65f936ba[m
+Author: Sagar9785 <sagar199785@gmail.com>
+Date:   Sat Feb 18 15:43:31 2017 +0530
+
+    Binary Search
+
+[33mcommit f87dbba911707bf253be29b592196ff32afaab01[m
+Author: Sagar9785 <sagar199785@gmail.com>
+Date:   Sat Feb 18 15:42:59 2017 +0530
+
+    Singly Linked List
+
+[33mcommit 4f380de3b2d6f9fa95ea303089a626ebe46e7d31[m
+Author: Sagar9785 <sagar199785@gmail.com>
+Date:   Sat Feb 18 15:42:21 2017 +0530
+
+    Doubly Linked List
+
+[33mcommit 91777170227b9e84e0af80433de50cc652ec309e[m
+Author: Sagar9785 <sagar199785@gmail.com>
+Date:   Sat Feb 18 15:41:20 2017 +0530
+
+    Binary Search Tree
+
+[33mcommit e3a251baf3f09866cb951688e7067d09bef4a22c[m
+Author: Sagar9785 <sagar199785@gmail.com>
+Date:   Sat Feb 18 15:06:10 2017 +0530
+
+    Infix to Postfix
+
+[33mcommit fa9635cb3ccf3b3ff5875f0f728a8d582b1c782b[m
+Author: Sagar9785 <sagar199785@gmail.com>
+Date:   Sat Feb 18 14:53:09 2017 +0530
+
+    This is my first commit.
+
+[33mcommit ca6ef94a853e08b91d07908da65a46f27498d6bd[m
+Author: Sagar9785 <sagar199785@gmail.com>
+Date:   Sat Feb 18 13:36:46 2017 +0530
+
+    first commit
