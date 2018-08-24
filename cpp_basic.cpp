@@ -40,7 +40,7 @@ class Student : public Details{
         Student();
         void getId(int);
         void getBranch(string);
-        friend void showDetails(Student);
+        friend void showDetails(const Student&);
         ~Student();
 };
 
@@ -66,7 +66,7 @@ void Student :: getBranch(string ibranch){
     Student :: branch = ibranch;
 }
 
-void showDetails(Student newStu){
+void showDetails(const Student& newStu){
     cout <<endl<< "Student name is "<< newStu.Details :: name<<endl;
     cout << "Student age is "<< newStu.Details :: age<<endl;
     cout << "Student id is "<< newStu.id<<endl;
